@@ -45,9 +45,9 @@ a, a:link, a:visited, a:hover, a:focus {
 
 .navbar {
   margin-bottom: -80px;
-  /* background-color: rgba(17, 19, 22, 1); */
-  /* background-color: transparent; */
-  background-image: linear-gradient(-90deg, rgba(150, 101, 26, 1) 0%, rgba(115, 71, 28, 1) 18%, rgba(76, 52, 35, 1) 33%, rgba(33, 36, 41, 1) 58%, rgba(14, 16, 17, 1) 100%);
+  background-color: rgba(17, 19, 22, 1); 
+  /*background-color: transparent; */
+  /*background-image: linear-gradient(-90deg, rgba(150, 101, 26, 1) 0%, rgba(115, 71, 28, 1) 18%, rgba(76, 52, 35, 1) 33%, rgba(33, 36, 41, 1) 58%, rgba(14, 16, 17, 1) 100%);*/
   position: relative;
   z-index: 10;
 }
@@ -59,7 +59,8 @@ a, a:link, a:visited, a:hover, a:focus {
 .navbar-brand::before {
   width: 54px;
   height: 54px;
-  background: url(img/icons/menu-logo.png);
+  /* background: url(img/icons/menu-logo.png);*/
+  background: url(img/icons/bahk-logo-big-white.svg);
   background-size: 54px 54px;
   display: inline-block;
   vertical-align: top;
@@ -194,7 +195,8 @@ table th {
 /* HEADER START */
 .jumbotron-fluid {
   background-color: transparent;
-  background-image: linear-gradient(-90deg, rgba(150, 101, 26, 1) 0%, rgba(115, 71, 28, 1) 18%, rgba(76, 52, 35, 1) 33%, rgba(33, 36, 41, 1) 58%, rgba(14, 16, 17, 1) 100%);
+  /*background-image: linear-gradient(-90deg, rgba(150, 101, 26, 1) 0%, rgba(115, 71, 28, 1) 18%, rgba(76, 52, 35, 1) 33%, rgba(33, 36, 41, 1) 58%, rgba(14, 16, 17, 1) 100%);*/
+  background: url(img/icons/laiseehk.png);
   height: 450px;
   background-repeat: no-repeat;
   background-size: cover;
