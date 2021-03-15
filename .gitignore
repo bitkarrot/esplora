@@ -7,3 +7,4 @@ terraform/*.tfstate
 *~
 npm-shrinkwrap.json
 package.json
+*.json
