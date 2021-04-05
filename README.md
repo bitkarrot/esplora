@@ -1,3 +1,6 @@
+# Note: 
+To run on netlify you need to have the netlify.toml
+
 # Esplora Block Explorer
 
 [![build status](https://api.travis-ci.org/Blockstream/esplora.svg)](https://travis-ci.org/Blockstream/esplora)
