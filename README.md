@@ -1,5 +1,8 @@
 # Note: 
-To run on netlify you need to have the netlify.toml
+- To run on netlify you need to have the netlify.toml
+- Also remember to set the environment variables on the netlify instance from hkconfig.env
+
+
 
 # Esplora Block Explorer
 
